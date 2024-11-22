@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="space-y-2 top-results h-[calc(100vh-160px)] sm:h-[calc(100vh-150px)]">
+    <div class="space-y-2 top-results h-[calc(100vh-170px)] sm:h-[calc(100vh-150px)]">
       <InfiniteLoading
         class="flex items-center justify-center"
         target=".top-results"
